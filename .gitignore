@@ -1,0 +1,16 @@
+
+.DS_Store
+*.log
+*.cbp
+*.txt
+*.make
+*.cmake
+cmake-build-debug/*
+*.o
+*.bin
+*.c
+*.check_cache
+*.marks
+*.iml
+*.xml
+.idea/*
